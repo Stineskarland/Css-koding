@@ -12,5 +12,12 @@ html{
 h1{
   color:333300
 }
+div{
+  background color:990044;
+  width: 70px;
+  padding: 5px;
+  border:5px;
+  margin:2px;
+}
 </body>
 </html>
