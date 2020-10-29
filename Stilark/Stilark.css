@@ -7,14 +7,14 @@
 html{
   height:100%;
   width:100%;
-  background-color: 123451;
+  background-color: red;
 }
 h1{
-  color:FF0000;
+  color:blue;
 }
 div{
-  background color:990044;
-  color:330000;
+  background color:green;
+  color:orange;
   width:500px;
   padding: 5px;
   margin:2px;
