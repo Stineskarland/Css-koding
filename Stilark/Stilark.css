@@ -12,18 +12,13 @@ html{
 h1{
   color:003333;
 }
-div1{
+div{
   background-color:220022;
   color:;
   width:500px;
   padding: 5px;
   margin:2px;
 }
-div2 {
-  background-color:330000;
-  width:500px;
-  padding: 5px;
-  margin:2px;
-}
+
 </body>
 </html>
