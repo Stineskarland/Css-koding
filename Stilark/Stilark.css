@@ -21,6 +21,7 @@ div{
 }
 ul li{
   background-color: #8cbe05; /*grønn bakgrunnsfarge*/
+  color:f04605; /*oransje tekstfarge*/
   padding:5px; /*avstand mellom bokskant og innhold */
   margin:2px;/* avstand mellom bokser*/
   width:200px;/*boksenes bredde */
@@ -28,7 +29,8 @@ ul li{
   list-style-type:none;/* tar bort kulepunkter/nummering*/
 }
 ol li{
-  background-color:#fo4605; /*oransje bakgrunnsfarge*/
+  background-color:#f04605; /*oransje bakgrunnsfarge*/
+  color:8cbe05/*grønn tekstfarge*/
   padding:5px; /*avstand mellom bokskant og innhold */
   margin:2px;/* avstand mellom bokser*/
   width:200px;/*boksenes bredde */
