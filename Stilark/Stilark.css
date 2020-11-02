@@ -10,7 +10,7 @@ html{
   background-color:#0e0e0e;
 }
 h1{
-  color:#550000;
+  color::22aa0e;
 }
 div{
   background-color:#00bd02;
@@ -33,7 +33,5 @@ ol li{
   margin:2px;/* avstand mellom bokser*/
   width:200px;/*boksenes bredde */
 }
-  
-
 </body>
 </html>
