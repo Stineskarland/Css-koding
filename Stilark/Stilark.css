@@ -43,6 +43,7 @@ ol li{
   margin:2px;/* avstand mellom bokser*/
   width:200px;/*boksenes bredde */
   border-radius:5px;/*avrunder kanter*/
+  list-style-type:none; /*tar bort kulepunkter/nummering*/
 }
   
   
